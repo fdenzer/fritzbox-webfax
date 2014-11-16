@@ -1,3 +1,3 @@
 [submodule "expressFax"]
 	path = expressFax
-	url = ./expressFax/
+	url = https://github.com/fdenzer/fritzbox-webfax_expressFax.git
